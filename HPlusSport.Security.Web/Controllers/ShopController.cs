@@ -4,6 +4,15 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
+/*Course: 		Web Programming 3
+* Assessment: 	Milestone 3
+* Created by:   Kyle Fournier - 2276840
+* Date: 		11/11/2024
+* Class Name: 	ShopController.cs
+* Description: 	used for the shop, buying items, putting them to cart, search for orders and the admin orders.
+* Time Task B):	2 hours. 
+*/
+
 namespace HPlusSport.Security.Web.Controllers;
 
 [Authorize]
